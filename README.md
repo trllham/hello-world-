@@ -1,5 +1,4 @@
 # hello-world-
-Another repository
 
 Hello all,
 
